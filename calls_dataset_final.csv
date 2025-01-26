@@ -1,0 +1,501 @@
+id,text_snippet,labels
+1,Can you guarantee backup and recovery for our compliance team?,"Security,Objection"
+2,We’re comparing your AI engine with EnterpriseF's. How does yours stack up?,"Competition,Security,Objection"
+3,We’re concerned about your SOC2 certified—can you clarify?,"Objection,Competition,Pricing Discussion"
+4,"How does your predictive modeling compare to CompanyC's? Also, what’s your pricing model?","Security,Objection"
+5,Can you guarantee encryption for our compliance team?,"Security,Objection"
+6,The subscription is a deal-breaker for us unless you can adjust it.,Objection
+7,Is there a cost structure if we commit to a longer-term contract?,"Pricing Discussion,Objection"
+8,"We’ve been using CompetitorX, but we’re open to switching. Convince us.","Competition,Pricing Discussion"
+9,Can you guarantee data breach risks for our compliance team?,"Security,Pricing Discussion,Competition"
+10,Does your data pipeline include built-in GDPR compliance measures?,Security
+11,"We like your workflow automation, but RivalB has a better pricing model, and we’re worried about SOC2 certified.","Security,Competition"
+12,We’re concerned about your compliance—can you clarify?,"Objection,Pricing Discussion,Security"
+13,I don’t see why we should pick your product over EnterpriseF’s.,Objection
+14,"We like your analytics, but VendorA has a better pricing model, and we’re worried about SOC2 certified.","Objection,Pricing Discussion,Competition"
+15,"How does your reporting tools compare to RivalB's? Also, what’s your monthly fees?","Objection,Security"
+16,"We’ve been using CompetitorX, but we’re open to switching. Convince us.",Competition
+17,Is there a cost structure if we commit to a longer-term contract?,"Pricing Discussion,Competition,Security"
+18,"We like your custom integrations, but CompetitorZ has a better pricing model, and we’re worried about data breach risks.","Security,Pricing Discussion,Competition"
+19,"Your billing cycle seems high, and we’re hesitant about compliance.","Pricing Discussion,Competition,Objection"
+20,"Your billing cycle seems high, and we’re hesitant about SOC2 certified.","Pricing Discussion,Competition,Objection"
+21,We’re considering StartupD because their workflow automation sounds more advanced.,"Competition,Security"
+22,"We like your reporting tools, but CompetitorX has a better pricing model, and we’re worried about GDPR compliance.","Objection,Competition"
+23,How does your analytics compare to CompetitorX's analytics?,"Competition,Security"
+24,"Your quote seems high, and we’re hesitant about encryption.","Competition,Security,Objection"
+25,I’d like a quote with no hidden fees. Does your pricing include AI engine support?,"Pricing Discussion,Objection,Competition"
+26,How do you ensure data handling for sensitive data?,"Security,Competition,Pricing Discussion"
+27,We’re comparing your predictive modeling with RivalB's. How does yours stack up?,"Competition,Pricing Discussion"
+28,Does your predictive modeling include built-in data breach risks measures?,"Security,Competition,Pricing Discussion"
+29,"Honestly, CompetitorX seems better in terms of hidden fees. Can you explain why we should pick you?","Competition,Objection,Security"
+30,I heard StartupD had SOC2 certified issues. Can you assure us you’re better?,Pricing Discussion
+31,Is there a budget if we commit to a longer-term contract?,Pricing Discussion
+32,Can you guarantee firewalls for our compliance team?,"Security,Pricing Discussion"
+33,I don’t see why we should pick your product over ProviderE’s.,"Objection,Pricing Discussion"
+34,"How does your predictive modeling compare to StartupD's? Also, what’s your cost structure?","Security,Objection"
+35,How does your data pipeline compare to StartupD's data pipeline?,"Competition,Pricing Discussion"
+36,"Your monthly fees seems high, and we’re hesitant about firewalls.",Competition
+37,I don’t see why we should pick your product over CompanyC’s.,Objection
+38,We’re considering VendorA because their data pipeline sounds more advanced.,Competition
+39,We’re comparing your predictive modeling with EnterpriseF's. How does yours stack up?,"Competition,Pricing Discussion,Objection"
+40,Is there a cost structure if we commit to a longer-term contract?,Pricing Discussion
+41,"Your quote seems high, and we’re hesitant about SOC2 certified.",Pricing Discussion
+42,Can you guarantee GDPR compliance for our compliance team?,"Security,Pricing Discussion"
+43,"Your monthly fees seems high, and we’re hesitant about data handling.","Competition,Security,Objection"
+44,We’re concerned about your compliance—can you clarify?,Objection
+45,How does your predictive modeling compare to RivalB's predictive modeling?,"Competition,Pricing Discussion,Objection"
+46,"Your pricing model seems high, and we’re hesitant about firewalls.","Competition,Pricing Discussion"
+47,"Honestly, ProviderE seems better in terms of discount. Can you explain why we should pick you?","Competition,Objection,Security"
+48,"How does your analytics compare to RivalB's? Also, what’s your renewal cost?",Objection
+49,I heard CompetitorZ had compliance issues. Can you assure us you’re better?,"Competition,Security,Objection"
+50,How does your custom integrations compare to ProviderE's custom integrations?,"Competition,Pricing Discussion"
+51,I’d like a quote with no hidden fees. Does your pricing include predictive modeling support?,Pricing Discussion
+52,I don’t see why we should pick your product over CompetitorX’s.,Objection
+53,I read about CompetitorX having issues with data handling. What’s your policy?,Security
+54,"We’re considering your solution, but CompetitorZ’s monthly fees is more attractive.","Pricing Discussion,Security"
+55,"How does your analytics compare to EnterpriseF's? Also, what’s your pricing model?","Security,Competition"
+56,I heard RivalB had firewalls issues. Can you assure us you’re better?,"Competition,Objection,Pricing Discussion"
+57,The quote is a deal-breaker for us unless you can adjust it.,"Objection,Pricing Discussion"
+58,"You’re saying this workflow automation is robust, but I’m hesitant—it sounds too risky.",Objection
+59,I heard CompetitorX had compliance issues. Can you assure us you’re better?,"Pricing Discussion,Security,Competition"
+60,We can’t move forward without clarity on GDPR compliance—can you elaborate?,Security
+61,We’re comparing your recommendation system with EnterpriseF's. How does yours stack up?,"Competition,Pricing Discussion"
+62,Can you guarantee GDPR compliance for our compliance team?,Security
+63,How does your custom integrations compare to StartupD's custom integrations?,"Competition,Security,Pricing Discussion"
+64,"We like your predictive modeling, but ProviderE has a better pricing model, and we’re worried about firewalls.","Security,Competition"
+65,We’re considering ProviderE because their predictive modeling sounds more advanced.,"Competition,Objection,Security"
+66,Can you guarantee privacy policies for our compliance team?,"Security,Objection"
+67,Is there a pricing model if we commit to a longer-term contract?,"Pricing Discussion,Objection,Security"
+68,"We’re considering your solution, but RivalB’s quote is more attractive.","Pricing Discussion,Competition"
+69,We’re concerned about your SOC2 certified—can you clarify?,Objection
+70,"We’ve been using VendorA, but we’re open to switching. Convince us.",Competition
+71,I’d like a quote with no hidden fees. Does your pricing include analytics support?,"Pricing Discussion,Competition"
+72,"We like your AI engine, but CompetitorZ has a better pricing model, and we’re worried about backup and recovery.",Objection
+73,"Your budget seems high, and we’re hesitant about compliance.","Pricing Discussion,Competition"
+74,I read about EnterpriseF having issues with SOC2 certified. What’s your policy?,"Security,Objection"
+75,We can’t move forward without clarity on firewalls—can you elaborate?,"Security,Pricing Discussion"
+76,I read about VendorA having issues with privacy policies. What’s your policy?,"Security,Objection"
+77,Can you guarantee backup and recovery for our compliance team?,Security
+78,I read about CompetitorZ having issues with privacy policies. What’s your policy?,Security
+79,Can you beat CompetitorX’s cost structure? Their offer seems better.,"Pricing Discussion,Security"
+80,Can you guarantee data breach risks for our compliance team?,"Security,Competition"
+81,I heard RivalB had backup and recovery issues. Can you assure us you’re better?,"Pricing Discussion,Objection"
+82,Does your custom integrations include built-in firewalls measures?,Security
+83,I heard ProviderE had GDPR compliance issues. Can you assure us you’re better?,"Competition,Pricing Discussion,Security"
+84,What’s your monthly fees for scaling up to 100 users?,"Pricing Discussion,Security"
+85,How does your reporting tools compare to CompetitorZ's reporting tools?,Competition
+86,Is there a subscription if we commit to a longer-term contract?,"Pricing Discussion,Competition"
+87,What’s your cost structure for scaling up to 100 users?,Pricing Discussion
+88,"Honestly, I’m not sure your predictive modeling is as strong as StartupD's.","Objection,Security"
+89,I heard StartupD had data handling issues. Can you assure us you’re better?,Competition
+90,We’re concerned about your data handling—can you clarify?,"Objection,Competition"
+91,We’re comparing your data pipeline with EnterpriseF's. How does yours stack up?,"Competition,Pricing Discussion"
+92,We’re comparing your custom integrations with RivalB's. How does yours stack up?,Competition
+93,"Honestly, I’m not sure your predictive modeling is as strong as CompanyC's.",Objection
+94,We’re comparing your recommendation system with VendorA's. How does yours stack up?,"Competition,Security,Pricing Discussion"
+95,"Your monthly fees seems high, and we’re hesitant about data breach risks.","Competition,Security,Objection"
+96,"Your monthly fees seems high, and we’re hesitant about firewalls.",Competition
+97,"Honestly, StartupD seems better in terms of hidden fees. Can you explain why we should pick you?","Competition,Security"
+98,"Your quote seems high, and we’re hesitant about data handling.","Pricing Discussion,Competition"
+99,We’re considering StartupD because their custom integrations sounds more advanced.,Competition
+100,"We’ve been using CompanyC, but we’re open to switching. Convince us.","Competition,Pricing Discussion,Security"
+101,We can’t move forward without clarity on GDPR compliance—can you elaborate?,"Security,Pricing Discussion"
+102,What’s your subscription for scaling up to 100 users?,Pricing Discussion
+103,"Your quote seems high, and we’re hesitant about SOC2 certified.","Pricing Discussion,Competition"
+104,We’re concerned about your firewalls—can you clarify?,"Objection,Pricing Discussion,Competition"
+105,I heard ProviderE had encryption issues. Can you assure us you’re better?,Pricing Discussion
+106,"You’re saying this custom integrations is robust, but I’m hesitant—it sounds too risky.",Objection
+107,What’s your cost structure for scaling up to 100 users?,Pricing Discussion
+108,I’d like a quote with no hidden fees. Does your pricing include AI engine support?,"Pricing Discussion,Objection,Security"
+109,How does your data pipeline compare to CompetitorY's data pipeline?,"Competition,Pricing Discussion"
+110,"We’re considering your solution, but CompetitorY’s hidden fees is more attractive.","Pricing Discussion,Competition,Security"
+111,Does your analytics include built-in backup and recovery measures?,"Security,Objection,Pricing Discussion"
+112,I read about StartupD having issues with firewalls. What’s your policy?,Security
+113,Does your custom integrations include built-in backup and recovery measures?,Security
+114,We can’t move forward without clarity on SOC2 certified—can you elaborate?,Security
+115,We’re concerned about your encryption—can you clarify?,Objection
+116,We’re concerned about your privacy policies—can you clarify?,"Objection,Pricing Discussion"
+117,How do you ensure privacy policies for sensitive data?,"Security,Pricing Discussion,Objection"
+118,How do you ensure backup and recovery for sensitive data?,Security
+119,Does your reporting tools include built-in SOC2 certified measures?,"Security,Objection,Pricing Discussion"
+120,"Honestly, I’m not sure your workflow automation is as strong as ProviderE's.","Objection,Competition"
+121,How does your predictive modeling compare to VendorA's predictive modeling?,"Competition,Objection"
+122,We’re comparing your recommendation system with CompetitorZ's. How does yours stack up?,"Competition,Security,Objection"
+123,"How does your AI engine compare to ProviderE's? Also, what’s your monthly fees?",Objection
+124,We can’t move forward without clarity on encryption—can you elaborate?,"Security,Objection"
+125,We can’t move forward without clarity on encryption—can you elaborate?,"Security,Pricing Discussion,Competition"
+126,I read about CompetitorY having issues with data handling. What’s your policy?,"Security,Pricing Discussion"
+127,Is there a budget if we commit to a longer-term contract?,"Pricing Discussion,Security,Objection"
+128,We can’t move forward without clarity on encryption—can you elaborate?,"Security,Pricing Discussion,Competition"
+129,"We like your workflow automation, but CompetitorX has a better pricing model, and we’re worried about encryption.","Security,Pricing Discussion,Objection"
+130,We can’t move forward without clarity on compliance—can you elaborate?,Security
+131,I heard CompetitorY had firewalls issues. Can you assure us you’re better?,"Competition,Objection"
+132,"Your billing cycle seems high, and we’re hesitant about GDPR compliance.","Pricing Discussion,Security"
+133,"How does your AI engine compare to ProviderE's? Also, what’s your hidden fees?",Objection
+134,The pricing model is a deal-breaker for us unless you can adjust it.,Objection
+135,The hidden fees is a deal-breaker for us unless you can adjust it.,Objection
+136,How does your workflow automation compare to VendorA's workflow automation?,"Competition,Pricing Discussion"
+137,"We like your workflow automation, but CompetitorY has a better pricing model, and we’re worried about firewalls.","Security,Objection"
+138,We’re considering StartupD because their reporting tools sounds more advanced.,"Competition,Pricing Discussion,Objection"
+139,"We’ve been using StartupD, but we’re open to switching. Convince us.",Competition
+140,I read about CompanyC having issues with encryption. What’s your policy?,"Security,Competition,Pricing Discussion"
+141,Can you beat CompetitorZ’s monthly fees? Their offer seems better.,Pricing Discussion
+142,I read about RivalB having issues with privacy policies. What’s your policy?,"Security,Competition,Objection"
+143,The hidden fees is a deal-breaker for us unless you can adjust it.,"Objection,Competition,Pricing Discussion"
+144,What’s your subscription for scaling up to 100 users?,"Pricing Discussion,Security,Competition"
+145,We’re comparing your data pipeline with CompetitorX's. How does yours stack up?,"Competition,Pricing Discussion"
+146,Can you guarantee compliance for our compliance team?,"Security,Competition,Objection"
+147,"Your subscription seems high, and we’re hesitant about SOC2 certified.","Pricing Discussion,Security,Competition"
+148,"We like your predictive modeling, but CompanyC has a better pricing model, and we’re worried about data breach risks.","Security,Objection,Pricing Discussion"
+149,I don’t see why we should pick your product over ProviderE’s.,"Objection,Security,Competition"
+150,"Honestly, I’m not sure your reporting tools is as strong as RivalB's.","Objection,Security,Competition"
+151,"You’re saying this AI engine is robust, but I’m hesitant—it sounds too risky.","Objection,Security,Competition"
+152,I don’t see why we should pick your product over ProviderE’s.,"Objection,Security"
+153,"Honestly, ProviderE seems better in terms of subscription. Can you explain why we should pick you?","Competition,Security"
+154,We’re comparing your predictive modeling with StartupD's. How does yours stack up?,"Competition,Objection"
+155,"We like your recommendation system, but StartupD has a better pricing model, and we’re worried about GDPR compliance.","Objection,Pricing Discussion,Security"
+156,I heard StartupD had GDPR compliance issues. Can you assure us you’re better?,Pricing Discussion
+157,We’re comparing your custom integrations with RivalB's. How does yours stack up?,"Competition,Security,Objection"
+158,How does your analytics compare to CompetitorY's analytics?,"Competition,Security"
+159,"Honestly, CompetitorX seems better in terms of budget. Can you explain why we should pick you?",Competition
+160,"Honestly, I’m not sure your recommendation system is as strong as EnterpriseF's.","Objection,Competition,Security"
+161,"We like your predictive modeling, but CompetitorY has a better pricing model, and we’re worried about privacy policies.","Security,Competition"
+162,"We like your workflow automation, but CompetitorZ has a better pricing model, and we’re worried about encryption.","Security,Pricing Discussion,Objection"
+163,"We’ve been using StartupD, but we’re open to switching. Convince us.","Competition,Objection,Pricing Discussion"
+164,"How does your workflow automation compare to EnterpriseF's? Also, what’s your budget?",Security
+165,Is there a subscription if we commit to a longer-term contract?,Pricing Discussion
+166,How does your AI engine compare to CompetitorY's AI engine?,Competition
+167,I read about CompetitorY having issues with GDPR compliance. What’s your policy?,Security
+168,How do you ensure privacy policies for sensitive data?,"Security,Objection"
+169,"How does your predictive modeling compare to CompetitorX's? Also, what’s your quote?","Objection,Pricing Discussion,Competition"
+170,"We like your data pipeline, but CompanyC has a better pricing model, and we’re worried about data handling.","Security,Objection"
+171,"How does your recommendation system compare to VendorA's? Also, what’s your cost structure?",Objection
+172,We’re considering VendorA because their recommendation system sounds more advanced.,Competition
+173,Does your data pipeline include built-in privacy policies measures?,"Security,Pricing Discussion,Competition"
+174,We’re concerned about your data handling—can you clarify?,"Objection,Competition"
+175,Can you beat RivalB’s monthly fees? Their offer seems better.,Pricing Discussion
+176,"We’re considering your solution, but CompanyC’s quote is more attractive.","Pricing Discussion,Security"
+177,"You’re saying this predictive modeling is robust, but I’m hesitant—it sounds too risky.",Objection
+178,How do you ensure compliance for sensitive data?,"Security,Competition,Objection"
+179,How do you ensure GDPR compliance for sensitive data?,"Security,Competition"
+180,Can you beat VendorA’s budget? Their offer seems better.,"Pricing Discussion,Security,Competition"
+181,"We’re considering your solution, but CompanyC’s renewal cost is more attractive.","Pricing Discussion,Security,Objection"
+182,Can you beat ProviderE’s monthly fees? Their offer seems better.,"Pricing Discussion,Security"
+183,We’re concerned about your encryption—can you clarify?,"Objection,Pricing Discussion,Competition"
+184,"Honestly, CompetitorX seems better in terms of renewal cost. Can you explain why we should pick you?","Competition,Security"
+185,We’re comparing your workflow automation with RivalB's. How does yours stack up?,"Competition,Pricing Discussion"
+186,Does your custom integrations include built-in compliance measures?,"Security,Objection,Pricing Discussion"
+187,I read about RivalB having issues with SOC2 certified. What’s your policy?,"Security,Pricing Discussion"
+188,What’s your renewal cost for scaling up to 100 users?,Pricing Discussion
+189,I don’t see why we should pick your product over CompetitorX’s.,Objection
+190,"We like your AI engine, but CompetitorZ has a better pricing model, and we’re worried about GDPR compliance.","Security,Pricing Discussion,Objection"
+191,Can you guarantee compliance for our compliance team?,"Security,Competition,Pricing Discussion"
+192,We’re concerned about your GDPR compliance—can you clarify?,"Objection,Competition,Security"
+193,I don’t see why we should pick your product over RivalB’s.,"Objection,Security,Pricing Discussion"
+194,How do you ensure encryption for sensitive data?,"Security,Competition"
+195,I don’t see why we should pick your product over CompetitorY’s.,Objection
+196,We’re comparing your reporting tools with EnterpriseF's. How does yours stack up?,"Competition,Pricing Discussion,Objection"
+197,"You’re saying this recommendation system is robust, but I’m hesitant—it sounds too risky.","Objection,Pricing Discussion"
+198,"How does your predictive modeling compare to ProviderE's? Also, what’s your cost structure?","Objection,Competition,Security"
+199,"Your budget seems high, and we’re hesitant about compliance.",Pricing Discussion
+200,"How does your analytics compare to EnterpriseF's? Also, what’s your subscription?","Security,Objection,Competition"
+201,"We like your analytics, but RivalB has a better pricing model, and we’re worried about firewalls.","Objection,Security"
+202,"We like your workflow automation, but CompetitorY has a better pricing model, and we’re worried about SOC2 certified.",Security
+203,The discount is a deal-breaker for us unless you can adjust it.,"Objection,Competition,Pricing Discussion"
+204,How do you ensure encryption for sensitive data?,"Security,Objection"
+205,Is there a budget if we commit to a longer-term contract?,"Pricing Discussion,Security"
+206,"Your cost structure seems high, and we’re hesitant about privacy policies.","Pricing Discussion,Competition,Security"
+207,We’re concerned about your data breach risks—can you clarify?,"Objection,Competition,Pricing Discussion"
+208,Can you beat EnterpriseF’s monthly fees? Their offer seems better.,"Pricing Discussion,Security,Objection"
+209,I heard EnterpriseF had firewalls issues. Can you assure us you’re better?,"Competition,Security,Pricing Discussion"
+210,"We’ve been using EnterpriseF, but we’re open to switching. Convince us.",Competition
+211,"You’re saying this workflow automation is robust, but I’m hesitant—it sounds too risky.","Objection,Pricing Discussion,Security"
+212,How do you ensure privacy policies for sensitive data?,"Security,Pricing Discussion,Objection"
+213,I heard CompanyC had encryption issues. Can you assure us you’re better?,Competition
+214,"Your cost structure seems high, and we’re hesitant about privacy policies.","Competition,Pricing Discussion,Security"
+215,How do you ensure GDPR compliance for sensitive data?,"Security,Competition"
+216,"How does your workflow automation compare to CompetitorY's? Also, what’s your budget?",Objection
+217,I’d like a quote with no hidden fees. Does your pricing include custom integrations support?,"Pricing Discussion,Security"
+218,"We like your reporting tools, but CompetitorY has a better pricing model, and we’re worried about data breach risks.","Security,Objection"
+219,What’s your quote for scaling up to 100 users?,"Pricing Discussion,Competition"
+220,We’re comparing your analytics with CompetitorY's. How does yours stack up?,"Competition,Pricing Discussion"
+221,"We like your data pipeline, but CompanyC has a better pricing model, and we’re worried about GDPR compliance.",Objection
+222,"Your cost structure seems high, and we’re hesitant about data breach risks.",Pricing Discussion
+223,"We like your custom integrations, but VendorA has a better pricing model, and we’re worried about privacy policies.",Objection
+224,We’re comparing your data pipeline with RivalB's. How does yours stack up?,"Competition,Security"
+225,"You’re saying this custom integrations is robust, but I’m hesitant—it sounds too risky.","Objection,Pricing Discussion"
+226,"We like your workflow automation, but RivalB has a better pricing model, and we’re worried about encryption.","Objection,Competition,Pricing Discussion"
+227,Can you beat CompetitorY’s renewal cost? Their offer seems better.,Pricing Discussion
+228,I read about ProviderE having issues with compliance. What’s your policy?,"Security,Pricing Discussion"
+229,I don’t see why we should pick your product over CompetitorY’s.,"Objection,Competition,Security"
+230,"Honestly, RivalB seems better in terms of quote. Can you explain why we should pick you?","Competition,Objection,Security"
+231,Can you beat ProviderE’s budget? Their offer seems better.,"Pricing Discussion,Objection,Competition"
+232,I read about CompanyC having issues with backup and recovery. What’s your policy?,Security
+233,Is there a hidden fees if we commit to a longer-term contract?,Pricing Discussion
+234,We’re concerned about your SOC2 certified—can you clarify?,Objection
+235,"Your pricing model seems high, and we’re hesitant about backup and recovery.",Pricing Discussion
+236,"You’re saying this recommendation system is robust, but I’m hesitant—it sounds too risky.","Objection,Competition,Pricing Discussion"
+237,Can you guarantee firewalls for our compliance team?,Security
+238,Is there a quote if we commit to a longer-term contract?,Pricing Discussion
+239,I read about CompetitorX having issues with privacy policies. What’s your policy?,"Security,Competition,Objection"
+240,Can you beat CompetitorZ’s subscription? Their offer seems better.,Pricing Discussion
+241,"Your cost structure seems high, and we’re hesitant about compliance.","Pricing Discussion,Objection"
+242,"We’ve been using RivalB, but we’re open to switching. Convince us.",Competition
+243,I read about StartupD having issues with encryption. What’s your policy?,"Security,Pricing Discussion,Competition"
+244,"We’ve been using CompetitorX, but we’re open to switching. Convince us.","Competition,Security"
+245,Does your workflow automation include built-in compliance measures?,Security
+246,Can you beat CompetitorX’s renewal cost? Their offer seems better.,"Pricing Discussion,Competition,Security"
+247,Can you guarantee data handling for our compliance team?,"Security,Objection,Competition"
+248,How do you ensure SOC2 certified for sensitive data?,Security
+249,"We’ve been using CompetitorZ, but we’re open to switching. Convince us.","Competition,Pricing Discussion,Objection"
+250,We’re concerned about your compliance—can you clarify?,Objection
+251,I’d like a quote with no hidden fees. Does your pricing include workflow automation support?,"Pricing Discussion,Competition,Objection"
+252,Can you guarantee backup and recovery for our compliance team?,"Security,Competition,Pricing Discussion"
+253,"Your monthly fees seems high, and we’re hesitant about data breach risks.","Competition,Objection,Pricing Discussion"
+254,"How does your AI engine compare to CompetitorZ's? Also, what’s your budget?",Security
+255,"We like your analytics, but CompetitorZ has a better pricing model, and we’re worried about data handling.","Security,Pricing Discussion,Competition"
+256,Can you guarantee data handling for our compliance team?,Security
+257,I don’t see why we should pick your product over CompetitorZ’s.,"Objection,Competition,Security"
+258,"Your hidden fees seems high, and we’re hesitant about GDPR compliance.",Competition
+259,"We’re considering your solution, but CompetitorX’s budget is more attractive.",Pricing Discussion
+260,"You’re saying this predictive modeling is robust, but I’m hesitant—it sounds too risky.","Objection,Security,Competition"
+261,"Your cost structure seems high, and we’re hesitant about firewalls.","Competition,Security,Objection"
+262,Is there a monthly fees if we commit to a longer-term contract?,Pricing Discussion
+263,"You’re saying this predictive modeling is robust, but I’m hesitant—it sounds too risky.",Objection
+264,How does your workflow automation compare to CompetitorZ's workflow automation?,"Competition,Objection"
+265,I read about CompetitorY having issues with SOC2 certified. What’s your policy?,"Security,Competition,Pricing Discussion"
+266,We’re concerned about your backup and recovery—can you clarify?,Objection
+267,"How does your AI engine compare to CompanyC's? Also, what’s your billing cycle?",Objection
+268,"Your billing cycle seems high, and we’re hesitant about privacy policies.","Pricing Discussion,Security,Objection"
+269,"We’re considering your solution, but CompanyC’s budget is more attractive.","Pricing Discussion,Competition,Security"
+270,I heard RivalB had backup and recovery issues. Can you assure us you’re better?,"Competition,Objection,Pricing Discussion"
+271,"You’re saying this predictive modeling is robust, but I’m hesitant—it sounds too risky.",Objection
+272,"We like your predictive modeling, but CompetitorY has a better pricing model, and we’re worried about SOC2 certified.",Security
+273,"Honestly, ProviderE seems better in terms of cost structure. Can you explain why we should pick you?",Competition
+274,"We’ve been using RivalB, but we’re open to switching. Convince us.",Competition
+275,"Your subscription seems high, and we’re hesitant about compliance.",Pricing Discussion
+276,We’re considering CompetitorX because their analytics sounds more advanced.,"Competition,Security"
+277,We’re considering CompanyC because their data pipeline sounds more advanced.,"Competition,Objection"
+278,"Honestly, CompetitorZ seems better in terms of subscription. Can you explain why we should pick you?",Competition
+279,Can you guarantee firewalls for our compliance team?,"Security,Competition"
+280,We’re comparing your reporting tools with CompetitorX's. How does yours stack up?,"Competition,Security"
+281,How does your reporting tools compare to RivalB's reporting tools?,"Competition,Security"
+282,"How does your workflow automation compare to VendorA's? Also, what’s your cost structure?","Objection,Security,Pricing Discussion"
+283,"How does your recommendation system compare to ProviderE's? Also, what’s your discount?","Objection,Competition"
+284,"We’ve been using RivalB, but we’re open to switching. Convince us.","Competition,Pricing Discussion,Security"
+285,"We’re considering your solution, but CompetitorY’s pricing model is more attractive.","Pricing Discussion,Competition,Objection"
+286,"Your monthly fees seems high, and we’re hesitant about firewalls.","Pricing Discussion,Competition,Security"
+287,How does your workflow automation compare to CompetitorZ's workflow automation?,Competition
+288,"How does your data pipeline compare to ProviderE's? Also, what’s your quote?","Objection,Pricing Discussion"
+289,Is there a billing cycle if we commit to a longer-term contract?,"Pricing Discussion,Competition"
+290,How does your predictive modeling compare to EnterpriseF's predictive modeling?,"Competition,Pricing Discussion,Objection"
+291,"Honestly, I’m not sure your analytics is as strong as CompetitorY's.",Objection
+292,I heard CompanyC had data handling issues. Can you assure us you’re better?,"Competition,Objection,Pricing Discussion"
+293,"Your cost structure seems high, and we’re hesitant about privacy policies.","Pricing Discussion,Security"
+294,I heard StartupD had data breach risks issues. Can you assure us you’re better?,"Competition,Objection,Pricing Discussion"
+295,"You’re saying this AI engine is robust, but I’m hesitant—it sounds too risky.","Objection,Competition,Pricing Discussion"
+296,"We’re considering your solution, but CompetitorX’s discount is more attractive.",Pricing Discussion
+297,"You’re saying this reporting tools is robust, but I’m hesitant—it sounds too risky.","Objection,Pricing Discussion,Competition"
+298,I don’t see why we should pick your product over ProviderE’s.,"Objection,Pricing Discussion"
+299,The quote is a deal-breaker for us unless you can adjust it.,"Objection,Competition,Pricing Discussion"
+300,"How does your data pipeline compare to StartupD's? Also, what’s your monthly fees?","Security,Competition,Pricing Discussion"
+301,I’d like a quote with no hidden fees. Does your pricing include data pipeline support?,"Pricing Discussion,Objection,Security"
+302,"We’re considering your solution, but RivalB’s subscription is more attractive.",Pricing Discussion
+303,How do you ensure SOC2 certified for sensitive data?,"Security,Competition"
+304,I heard CompetitorX had data breach risks issues. Can you assure us you’re better?,"Competition,Objection,Pricing Discussion"
+305,The renewal cost is a deal-breaker for us unless you can adjust it.,"Objection,Security"
+306,Does your custom integrations include built-in firewalls measures?,"Security,Objection"
+307,What’s your quote for scaling up to 100 users?,"Pricing Discussion,Security"
+308,"Your renewal cost seems high, and we’re hesitant about GDPR compliance.","Pricing Discussion,Objection,Competition"
+309,Is there a quote if we commit to a longer-term contract?,"Pricing Discussion,Competition,Objection"
+310,We’re comparing your custom integrations with CompetitorX's. How does yours stack up?,"Competition,Security"
+311,We’re concerned about your firewalls—can you clarify?,"Objection,Security"
+312,I’d like a quote with no hidden fees. Does your pricing include predictive modeling support?,"Pricing Discussion,Objection,Competition"
+313,How does your reporting tools compare to CompetitorX's reporting tools?,"Competition,Objection"
+314,We’re comparing your predictive modeling with CompanyC's. How does yours stack up?,"Competition,Pricing Discussion"
+315,We’re comparing your data pipeline with VendorA's. How does yours stack up?,"Competition,Security"
+316,"We like your recommendation system, but EnterpriseF has a better pricing model, and we’re worried about firewalls.","Objection,Pricing Discussion,Competition"
+317,I’d like a quote with no hidden fees. Does your pricing include workflow automation support?,Pricing Discussion
+318,How do you ensure backup and recovery for sensitive data?,"Security,Competition"
+319,"We’re considering your solution, but CompetitorX’s hidden fees is more attractive.","Pricing Discussion,Security,Competition"
+320,"We like your data pipeline, but CompetitorX has a better pricing model, and we’re worried about data breach risks.","Objection,Security,Pricing Discussion"
+321,I read about CompetitorZ having issues with encryption. What’s your policy?,"Security,Objection,Pricing Discussion"
+322,"How does your workflow automation compare to StartupD's? Also, what’s your pricing model?","Security,Competition,Objection"
+323,I heard CompanyC had data breach risks issues. Can you assure us you’re better?,"Competition,Pricing Discussion,Security"
+324,"We’ve been using CompanyC, but we’re open to switching. Convince us.","Competition,Objection,Security"
+325,"How does your data pipeline compare to EnterpriseF's? Also, what’s your billing cycle?","Security,Pricing Discussion"
+326,"Your cost structure seems high, and we’re hesitant about data breach risks.","Competition,Security,Pricing Discussion"
+327,"We’ve been using CompetitorZ, but we’re open to switching. Convince us.","Competition,Security"
+328,"Your budget seems high, and we’re hesitant about privacy policies.","Pricing Discussion,Objection,Security"
+329,The quote is a deal-breaker for us unless you can adjust it.,Objection
+330,"How does your analytics compare to EnterpriseF's? Also, what’s your subscription?",Security
+331,"We’re considering your solution, but StartupD’s pricing model is more attractive.","Pricing Discussion,Competition,Security"
+332,"We’ve been using CompanyC, but we’re open to switching. Convince us.","Competition,Objection,Pricing Discussion"
+333,"We’ve been using RivalB, but we’re open to switching. Convince us.",Competition
+334,I read about RivalB having issues with GDPR compliance. What’s your policy?,"Security,Competition"
+335,Is there a discount if we commit to a longer-term contract?,Pricing Discussion
+336,"Your cost structure seems high, and we’re hesitant about data breach risks.","Competition,Pricing Discussion,Objection"
+337,"Honestly, RivalB seems better in terms of billing cycle. Can you explain why we should pick you?","Competition,Pricing Discussion,Security"
+338,"You’re saying this workflow automation is robust, but I’m hesitant—it sounds too risky.",Objection
+339,"Your hidden fees seems high, and we’re hesitant about data handling.","Pricing Discussion,Competition"
+340,We can’t move forward without clarity on GDPR compliance—can you elaborate?,"Security,Pricing Discussion,Objection"
+341,"We like your AI engine, but RivalB has a better pricing model, and we’re worried about firewalls.",Objection
+342,Does your analytics include built-in encryption measures?,Security
+343,"You’re saying this data pipeline is robust, but I’m hesitant—it sounds too risky.",Objection
+344,"Your quote seems high, and we’re hesitant about GDPR compliance.","Competition,Objection"
+345,We can’t move forward without clarity on data handling—can you elaborate?,"Security,Pricing Discussion,Competition"
+346,I read about CompanyC having issues with GDPR compliance. What’s your policy?,"Security,Objection,Pricing Discussion"
+347,We can’t move forward without clarity on data handling—can you elaborate?,"Security,Competition,Pricing Discussion"
+348,"Your hidden fees seems high, and we’re hesitant about backup and recovery.","Competition,Objection"
+349,We’re comparing your custom integrations with CompanyC's. How does yours stack up?,"Competition,Pricing Discussion,Security"
+350,Can you beat CompetitorY’s hidden fees? Their offer seems better.,Pricing Discussion
+351,"Your pricing model seems high, and we’re hesitant about GDPR compliance.","Pricing Discussion,Objection"
+352,"We like your recommendation system, but CompetitorZ has a better pricing model, and we’re worried about data handling.","Objection,Competition,Security"
+353,Is there a cost structure if we commit to a longer-term contract?,"Pricing Discussion,Competition,Objection"
+354,"We’re considering your solution, but RivalB’s quote is more attractive.",Pricing Discussion
+355,What’s your renewal cost for scaling up to 100 users?,"Pricing Discussion,Objection,Security"
+356,"You’re saying this recommendation system is robust, but I’m hesitant—it sounds too risky.",Objection
+357,"How does your workflow automation compare to CompetitorX's? Also, what’s your quote?","Objection,Security,Pricing Discussion"
+358,We can’t move forward without clarity on data handling—can you elaborate?,"Security,Objection"
+359,The quote is a deal-breaker for us unless you can adjust it.,"Objection,Pricing Discussion"
+360,"How does your analytics compare to CompetitorZ's? Also, what’s your cost structure?","Objection,Competition"
+361,"We like your predictive modeling, but VendorA has a better pricing model, and we’re worried about SOC2 certified.",Security
+362,I’d like a quote with no hidden fees. Does your pricing include reporting tools support?,"Pricing Discussion,Security,Objection"
+363,"How does your recommendation system compare to VendorA's? Also, what’s your budget?",Security
+364,"We’ve been using CompetitorX, but we’re open to switching. Convince us.","Competition,Pricing Discussion,Objection"
+365,I’d like a quote with no hidden fees. Does your pricing include reporting tools support?,"Pricing Discussion,Security"
+366,"How does your data pipeline compare to EnterpriseF's? Also, what’s your renewal cost?","Objection,Security"
+367,We’re comparing your data pipeline with VendorA's. How does yours stack up?,"Competition,Pricing Discussion,Objection"
+368,"You’re saying this data pipeline is robust, but I’m hesitant—it sounds too risky.",Objection
+369,I heard CompetitorX had privacy policies issues. Can you assure us you’re better?,"Pricing Discussion,Security"
+370,"How does your data pipeline compare to CompanyC's? Also, what’s your pricing model?","Objection,Security,Competition"
+371,I read about CompetitorZ having issues with data handling. What’s your policy?,"Security,Competition,Pricing Discussion"
+372,I heard CompetitorZ had data handling issues. Can you assure us you’re better?,Pricing Discussion
+373,I don’t see why we should pick your product over CompetitorY’s.,"Objection,Security"
+374,Does your data pipeline include built-in data breach risks measures?,"Security,Pricing Discussion"
+375,We can’t move forward without clarity on data breach risks—can you elaborate?,"Security,Pricing Discussion"
+376,I don’t see why we should pick your product over ProviderE’s.,"Objection,Competition,Security"
+377,Is there a quote if we commit to a longer-term contract?,"Pricing Discussion,Competition,Security"
+378,We can’t move forward without clarity on firewalls—can you elaborate?,"Security,Objection"
+379,The budget is a deal-breaker for us unless you can adjust it.,Objection
+380,How do you ensure backup and recovery for sensitive data?,"Security,Pricing Discussion,Competition"
+381,I heard CompetitorZ had backup and recovery issues. Can you assure us you’re better?,Pricing Discussion
+382,How do you ensure backup and recovery for sensitive data?,"Security,Competition,Objection"
+383,"How does your workflow automation compare to CompetitorZ's? Also, what’s your hidden fees?","Objection,Pricing Discussion"
+384,"How does your analytics compare to CompetitorX's? Also, what’s your hidden fees?","Security,Objection,Pricing Discussion"
+385,I don’t see why we should pick your product over RivalB’s.,Objection
+386,"How does your reporting tools compare to StartupD's? Also, what’s your budget?","Objection,Security"
+387,Can you beat EnterpriseF’s hidden fees? Their offer seems better.,Pricing Discussion
+388,Can you beat RivalB’s pricing model? Their offer seems better.,"Pricing Discussion,Security"
+389,Can you beat RivalB’s billing cycle? Their offer seems better.,Pricing Discussion
+390,What’s your cost structure for scaling up to 100 users?,"Pricing Discussion,Security,Competition"
+391,Is there a pricing model if we commit to a longer-term contract?,"Pricing Discussion,Objection"
+392,"Honestly, RivalB seems better in terms of cost structure. Can you explain why we should pick you?","Competition,Objection,Security"
+393,"How does your workflow automation compare to CompetitorX's? Also, what’s your billing cycle?",Objection
+394,"Honestly, I’m not sure your custom integrations is as strong as VendorA's.",Objection
+395,We’re concerned about your privacy policies—can you clarify?,"Objection,Competition,Pricing Discussion"
+396,"Your cost structure seems high, and we’re hesitant about encryption.","Pricing Discussion,Competition"
+397,Can you beat RivalB’s cost structure? Their offer seems better.,"Pricing Discussion,Objection,Competition"
+398,"Honestly, RivalB seems better in terms of cost structure. Can you explain why we should pick you?","Competition,Pricing Discussion"
+399,Is there a hidden fees if we commit to a longer-term contract?,"Pricing Discussion,Security,Competition"
+400,I heard EnterpriseF had data breach risks issues. Can you assure us you’re better?,Pricing Discussion
+401,I read about CompetitorX having issues with encryption. What’s your policy?,"Security,Competition"
+402,Can you guarantee data handling for our compliance team?,"Security,Objection"
+403,"Your monthly fees seems high, and we’re hesitant about data handling.","Competition,Pricing Discussion"
+404,Can you guarantee SOC2 certified for our compliance team?,Security
+405,"We like your predictive modeling, but CompetitorX has a better pricing model, and we’re worried about compliance.","Security,Pricing Discussion"
+406,"Your monthly fees seems high, and we’re hesitant about GDPR compliance.","Pricing Discussion,Objection"
+407,I don’t see why we should pick your product over StartupD’s.,"Objection,Pricing Discussion"
+408,"Your budget seems high, and we’re hesitant about firewalls.","Pricing Discussion,Security,Objection"
+409,"Your budget seems high, and we’re hesitant about GDPR compliance.","Competition,Objection"
+410,"Honestly, I’m not sure your workflow automation is as strong as EnterpriseF's.",Objection
+411,What’s your discount for scaling up to 100 users?,"Pricing Discussion,Competition"
+412,I heard EnterpriseF had firewalls issues. Can you assure us you’re better?,"Competition,Security"
+413,We’re concerned about your encryption—can you clarify?,Objection
+414,We’re considering CompetitorZ because their AI engine sounds more advanced.,"Competition,Objection"
+415,How does your reporting tools compare to CompetitorY's reporting tools?,"Competition,Security"
+416,I’d like a quote with no hidden fees. Does your pricing include workflow automation support?,"Pricing Discussion,Security"
+417,"Your budget seems high, and we’re hesitant about data breach risks.","Pricing Discussion,Objection,Security"
+418,I heard ProviderE had backup and recovery issues. Can you assure us you’re better?,Competition
+419,How do you ensure backup and recovery for sensitive data?,"Security,Pricing Discussion,Competition"
+420,We’re comparing your AI engine with CompetitorX's. How does yours stack up?,Competition
+421,How does your AI engine compare to RivalB's AI engine?,"Competition,Pricing Discussion"
+422,"Honestly, I’m not sure your workflow automation is as strong as CompanyC's.","Objection,Pricing Discussion,Competition"
+423,How do you ensure firewalls for sensitive data?,"Security,Objection"
+424,I’d like a quote with no hidden fees. Does your pricing include recommendation system support?,"Pricing Discussion,Competition"
+425,I heard EnterpriseF had data breach risks issues. Can you assure us you’re better?,"Pricing Discussion,Security"
+426,"Honestly, VendorA seems better in terms of budget. Can you explain why we should pick you?","Competition,Objection"
+427,How do you ensure encryption for sensitive data?,"Security,Competition,Pricing Discussion"
+428,I’d like a quote with no hidden fees. Does your pricing include recommendation system support?,"Pricing Discussion,Security"
+429,Is there a monthly fees if we commit to a longer-term contract?,Pricing Discussion
+430,"We’re considering your solution, but CompetitorY’s budget is more attractive.","Pricing Discussion,Competition"
+431,"You’re saying this workflow automation is robust, but I’m hesitant—it sounds too risky.","Objection,Pricing Discussion,Security"
+432,We’re comparing your reporting tools with CompetitorZ's. How does yours stack up?,"Competition,Pricing Discussion"
+433,Can you beat CompetitorY’s monthly fees? Their offer seems better.,Pricing Discussion
+434,I heard CompetitorZ had firewalls issues. Can you assure us you’re better?,"Competition,Objection"
+435,How do you ensure backup and recovery for sensitive data?,"Security,Objection"
+436,"We like your custom integrations, but RivalB has a better pricing model, and we’re worried about backup and recovery.","Objection,Pricing Discussion,Security"
+437,We can’t move forward without clarity on compliance—can you elaborate?,Security
+438,"How does your analytics compare to CompetitorY's? Also, what’s your budget?",Security
+439,"We like your reporting tools, but CompetitorZ has a better pricing model, and we’re worried about privacy policies.","Objection,Competition"
+440,We’re considering ProviderE because their workflow automation sounds more advanced.,"Competition,Pricing Discussion"
+441,"We’re considering your solution, but CompetitorX’s subscription is more attractive.",Pricing Discussion
+442,I heard RivalB had compliance issues. Can you assure us you’re better?,"Competition,Security,Objection"
+443,"Your renewal cost seems high, and we’re hesitant about GDPR compliance.",Pricing Discussion
+444,"How does your predictive modeling compare to CompetitorZ's? Also, what’s your quote?","Objection,Pricing Discussion,Security"
+445,What’s your hidden fees for scaling up to 100 users?,Pricing Discussion
+446,We’re considering CompetitorZ because their predictive modeling sounds more advanced.,Competition
+447,We can’t move forward without clarity on data handling—can you elaborate?,Security
+448,The quote is a deal-breaker for us unless you can adjust it.,"Objection,Security,Competition"
+449,"We like your analytics, but ProviderE has a better pricing model, and we’re worried about compliance.","Security,Competition,Objection"
+450,"Honestly, I’m not sure your predictive modeling is as strong as CompetitorX's.","Objection,Pricing Discussion,Security"
+451,"You’re saying this analytics is robust, but I’m hesitant—it sounds too risky.","Objection,Security"
+452,We’re comparing your analytics with EnterpriseF's. How does yours stack up?,"Competition,Objection"
+453,"We like your analytics, but EnterpriseF has a better pricing model, and we’re worried about GDPR compliance.","Security,Competition"
+454,How does your recommendation system compare to RivalB's recommendation system?,"Competition,Objection,Pricing Discussion"
+455,The discount is a deal-breaker for us unless you can adjust it.,"Objection,Competition"
+456,How do you ensure firewalls for sensitive data?,"Security,Pricing Discussion"
+457,"Honestly, ProviderE seems better in terms of renewal cost. Can you explain why we should pick you?","Competition,Pricing Discussion,Objection"
+458,I don’t see why we should pick your product over EnterpriseF’s.,Objection
+459,Does your predictive modeling include built-in GDPR compliance measures?,"Security,Competition"
+460,"Honestly, RivalB seems better in terms of monthly fees. Can you explain why we should pick you?","Competition,Objection"
+461,"We like your workflow automation, but CompetitorY has a better pricing model, and we’re worried about data handling.","Objection,Pricing Discussion,Security"
+462,Does your data pipeline include built-in data handling measures?,"Security,Competition,Objection"
+463,Can you guarantee data breach risks for our compliance team?,"Security,Competition,Pricing Discussion"
+464,"How does your workflow automation compare to ProviderE's? Also, what’s your discount?","Security,Objection,Competition"
+465,"We like your analytics, but RivalB has a better pricing model, and we’re worried about backup and recovery.","Objection,Pricing Discussion"
+466,What’s your quote for scaling up to 100 users?,"Pricing Discussion,Security,Objection"
+467,"We like your reporting tools, but CompetitorY has a better pricing model, and we’re worried about data breach risks.","Security,Objection,Competition"
+468,Can you guarantee GDPR compliance for our compliance team?,Security
+469,"We like your reporting tools, but ProviderE has a better pricing model, and we’re worried about GDPR compliance.","Objection,Security,Pricing Discussion"
+470,Does your workflow automation include built-in SOC2 certified measures?,Security
+471,"Your billing cycle seems high, and we’re hesitant about GDPR compliance.",Competition
+472,Does your data pipeline include built-in privacy policies measures?,"Security,Competition"
+473,What’s your monthly fees for scaling up to 100 users?,Pricing Discussion
+474,"Your subscription seems high, and we’re hesitant about backup and recovery.","Pricing Discussion,Competition,Security"
+475,"We like your AI engine, but EnterpriseF has a better pricing model, and we’re worried about privacy policies.","Security,Competition"
+476,I’d like a quote with no hidden fees. Does your pricing include workflow automation support?,"Pricing Discussion,Competition"
+477,I don’t see why we should pick your product over EnterpriseF’s.,Objection
+478,Can you guarantee privacy policies for our compliance team?,"Security,Pricing Discussion"
+479,The discount is a deal-breaker for us unless you can adjust it.,Objection
+480,I heard StartupD had data breach risks issues. Can you assure us you’re better?,Pricing Discussion
+481,We’re considering VendorA because their recommendation system sounds more advanced.,"Competition,Pricing Discussion"
+482,Is there a cost structure if we commit to a longer-term contract?,Pricing Discussion
+483,"How does your analytics compare to VendorA's? Also, what’s your cost structure?",Objection
+484,The quote is a deal-breaker for us unless you can adjust it.,Objection
+485,I heard VendorA had firewalls issues. Can you assure us you’re better?,Competition
+486,What’s your budget for scaling up to 100 users?,Pricing Discussion
+487,I heard StartupD had data breach risks issues. Can you assure us you’re better?,"Pricing Discussion,Objection"
+488,"Your billing cycle seems high, and we’re hesitant about privacy policies.","Pricing Discussion,Security,Objection"
+489,"Your budget seems high, and we’re hesitant about data breach risks.","Pricing Discussion,Competition"
+490,"How does your recommendation system compare to EnterpriseF's? Also, what’s your cost structure?",Objection
+491,We’re considering CompetitorZ because their reporting tools sounds more advanced.,"Competition,Security"
+492,I read about StartupD having issues with backup and recovery. What’s your policy?,"Security,Competition"
+493,"Honestly, RivalB seems better in terms of subscription. Can you explain why we should pick you?",Competition
+494,"We’re considering your solution, but CompetitorZ’s billing cycle is more attractive.","Pricing Discussion,Objection,Security"
+495,I read about CompetitorY having issues with data handling. What’s your policy?,Security
+496,"How does your recommendation system compare to StartupD's? Also, what’s your hidden fees?","Objection,Competition,Security"
+497,Can you beat RivalB’s pricing model? Their offer seems better.,"Pricing Discussion,Security"
+498,"How does your analytics compare to CompanyC's? Also, what’s your quote?","Objection,Competition"
+499,I’d like a quote with no hidden fees. Does your pricing include data pipeline support?,Pricing Discussion
+500,I don’t see why we should pick your product over CompetitorY’s.,Objection
